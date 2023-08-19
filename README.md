@@ -2,8 +2,10 @@
 ```yaml
 ---
 info: |
-    I am moving away from GitHub. I will maintain my profile for the use of contributing to projects, but can not continue to condone the actions of GitHub and what they are (hopefully) unwittingly doing to the FOSS community.
-    It would certainly seem fitting that the purchase of GitHub by Microsoft would continue to erode the rights of users and developers alike for the sake of profit.
+    I am moving source repositories away from GitHub.
+    I will maintain my profile for the use of contributing.
+    I cannot continue to condone th actions of GitHub.
+    The rights of users and developers alike are being eroded.
     Remember why we build open source.
 contact:
   - TBD
