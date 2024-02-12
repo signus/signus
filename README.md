@@ -3,8 +3,8 @@
 ---
 info: |
     I am moving source repositories away from GitHub.
-    I will maintain my profile for the use of contributing.
-    I cannot continue to condone th actions of GitHub.
+    I will maintain my profile for the use of contributions.
+    I cannot continue to condone the actions of GitHub.
     The rights of users and developers alike are being eroded.
 
     Remember why the FOSS community exists.
