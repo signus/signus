@@ -2,12 +2,10 @@
 ```yaml
 ---
 info: |
-    I am moving source repositories away from GitHub.
-    I will maintain my profile for the use of contributions.
-    I cannot continue to condone the actions of GitHub.
+    I am maintaining my source repositories outside of GitHub.
+    I will maintain my profile for the use of contributions and following projects I like.
+    I do not condone many actions of GitHub on their platform.
     The rights of users and developers alike are being eroded.
-
-    Remember why the FOSS community exists.
 contact:
   - TBD
 repositories:
